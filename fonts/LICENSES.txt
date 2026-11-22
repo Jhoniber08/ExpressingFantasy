@@ -1,0 +1,4 @@
+Fuentes incluidas (licencias libres):
+- Poppins (SIL Open Font License 1.1) — Indian Type Foundry
+- Inter (SIL Open Font License 1.1) — Rasmus Andersson
+- DejaVu Sans Mono (licencia libre de Bitstream Vera / DejaVu)
